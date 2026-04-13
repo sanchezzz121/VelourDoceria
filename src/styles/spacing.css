@@ -69,3 +69,8 @@ hr{
     height: 40px;
     width: auto;
 }
+
+
+section{
+  padding: 10px 0;
+}
